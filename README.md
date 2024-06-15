@@ -55,8 +55,7 @@ The starter code provided includes all the steps necessary to complete this chal
  1. Create a pivot table with the "invoice_date" column as the index and the "total_sales" column as the values parameter.
  2. Rename the aggregated column to reflect the aggregation of the data in the column.
  3. Apply the resample function to the pivot table, place the data into daily bins, and get the total sales for each day.
- 4. Sort the resampled DataFrame in descending order to show the top 10 days that generated the most women's athletic footwear sales.
- 5. Your final table should look like the following image:
+ 4. Sort the resampled DataFrame in descending order to show the top 10 days that generated the most women's athletic footwear sales. Your final table should look like the following image:
 
     ![image](https://github.com/ReccaS/athletic_sales_analysis/assets/168928543/03fb98f2-8813-49de-819b-62bec44077a7)
 
