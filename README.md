@@ -63,6 +63,7 @@ The starter code provided includes all the steps necessary to complete this chal
  2. Sort the resampled DataFrame in descending order to show the top 10 weeks that generated the most women's athletic footwear sales.
  3.  Your final table should look like the following image:
     ![image](https://github.com/ReccaS/athletic_sales_analysis/assets/168928543/bc6f02b2-03ac-4846-9892-817ce0969c83)
+     
 # References
 Sales Product Data. Available: https://www.kaggle.com/datasets/knightbearr/sales-product-dataLinks to an external site.
 The sales product data above was modified by edX Boot Camps LLC, and is intended for educational purposes only.
