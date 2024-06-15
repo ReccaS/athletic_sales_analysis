@@ -60,7 +60,8 @@ The starter code provided includes all the steps necessary to complete this chal
 
 **Determine the Week with the Most Women's Athletic Footwear Sales**
  1. Apply resample to the pivot table above, place the data into weekly bins, and get the total sales for each week.
- 2. Sort the resampled DataFrame in descending order to show the top 10 weeks that generated the most women's athletic footwear sales. Your final table should look like the following image:
+ 2. Sort the resampled DataFrame in descending order to show the top 10 weeks that generated the most women's athletic footwear sales.
+ 3.  Your final table should look like the following image:
     ![image](https://github.com/ReccaS/athletic_sales_analysis/assets/168928543/bc6f02b2-03ac-4846-9892-817ce0969c83)
 # References
 Sales Product Data. Available: https://www.kaggle.com/datasets/knightbearr/sales-product-dataLinks to an external site.
